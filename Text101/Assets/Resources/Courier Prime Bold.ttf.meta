@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: dc7829e3993cb40468425f162095d1a2
+timeCreated: 1507589518
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Courier Prime
+  fontNames:
+  - Courier Prime
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0801f213c028f084580938260417fd90, type: 3}
+  - {fileID: 12800000, guid: 7660fc3433792d041b1da292ef99a003, type: 3}
+  - {fileID: 12800000, guid: 0da39f3e00e4a9841b3bd9942ddaeb80, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
